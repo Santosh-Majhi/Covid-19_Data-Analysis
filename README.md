@@ -14,5 +14,10 @@ This project analyzes COVID-19 data, showing confirmed cases, deaths, and recove
 #### 3- Designed a filter-based system to compare multiple countries efficiently.
 #### 4- Utilized color-coded visual representation to highlight critical data points.
 #### 5- Provided insights on high-risk regions and their healthcare responses.
+#### 6- Designed an interactive dashboard to track global COVID-19 cases, recoveries, and deaths.
+#### 7- Analyzed top affected countries and their recovery trends.
+#### 8- Used bubble charts, bar graphs, and treemaps to present complex data in a clear format.
+#### 9- Implemented filtering techniques to compare different countries.
+
 ## Conclusion:
 The analysis shows that COVID-19 had a severe impact globally, with high case numbers leading to significant deaths. Some countries managed better recovery rates, while others struggled with high fatalities. The dashboard helps in understanding the spread and impact of the virus with clear data insights.
