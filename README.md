@@ -1,6 +1,8 @@
 # Covid-19_Data-Analysis Using SQL, Python and Tableau
 ## Summary:
 This project analyzes COVID-19 data, showing confirmed cases, deaths, and recoveries worldwide. The dashboard highlights the most affected countries, including the European Union, the United States, and China. It also provides a comparison of recovery and death rates, a global case distribution map, and trend analysis.
+![Covid-19](https://github.com/Santosh-Majhi/Covid-19_Data-Analysis/blob/main/Image.jpg)
+
 ## Technical Skills:
 #### 1: Data Collection & Cleaning – Organized and structured raw COVID-19 data for meaningful insights.
 #### 2: Trend Analysis – Identified patterns in confirmed cases, deaths, and recoveries globally.
